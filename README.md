@@ -6,7 +6,7 @@ Junior Full Stack Developer
 
 * 🌍  I'm based in Seattle, WA
 * ✉️  You can contact me at [gracelee9901@gmail.com](mailto:gracelee9901@gmail.com)
-* 🚀  I'm currently working on [MealsToGo](http://github.com/g-lee2/MealsToGo.git)
+* 🚀  I'm currently working on [TomoU](http://github.com/g-lee2/MealsToGo.git](https://github.com/g-lee2/TomoU.git)
 * 🧠  I'm learning React Native
 
 ### Skills
@@ -33,8 +33,7 @@ Junior Full Stack Developer
 
 <b>My GitHub Stats</b>
 
+<a href="https://github.com/g-lee2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-lee2&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <a href="http://www.github.com/g-lee2"><img src="https://github-readme-stats.vercel.app/api?username=g-lee2&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="g-lee2's GitHub stats" /></a>
 
-<a href="http://www.github.com/g-lee2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=g-lee2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/g-lee2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-lee2&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
