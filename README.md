@@ -6,7 +6,7 @@ Junior Full Stack Developer
 
 * 🌍  I'm based in Seattle, WA
 * ✉️  You can contact me at [gracelee9901@gmail.com](mailto:gracelee9901@gmail.com)
-* 🚀  I'm currently working on [TomoU](http://github.com/g-lee2/MealsToGo.git](https://github.com/g-lee2/TomoU.git)
+* 🚀  I'm currently working on [TomoU](https://github.com/g-lee2/TomoU.git)
 * 🧠  I'm learning React Native
 
 ### Skills
