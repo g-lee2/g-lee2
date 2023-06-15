@@ -13,11 +13,11 @@
 Junior Full Stack Developer
 ---------------------------
 
-* 🌍  I'm based in Seattle, WA
-* 🌱 Software Development Intern @ Opine 
-* ✉️  You can contact me at [gracelee9901@gmail.com](mailto:gracelee9901@gmail.com)
-* 🚀  I'm currently working on [TomoU](https://github.com/g-lee2/TomoU.git)
-* 🧠  I'm learning React Native and Python
+🌍  I'm based in Seattle, WA
+🌱 Software Development Intern @ Opine 
+✉️  You can contact me at [gracelee9901@gmail.com](mailto:gracelee9901@gmail.com)
+🚀  I'm currently working on [TomoU](https://github.com/g-lee2/TomoU.git)
+🧠  I'm learning React Native and Python
   
 </div>
 
@@ -32,8 +32,9 @@ Junior Full Stack Developer
 </div>
   
 <div align="center">
-    ### Socials & Badges
-</div>
+  
+### Socials & Badges
+
             
 <p align="center">
   <a href="https://www.github.com/g-lee2" target="_blank" rel="noreferrer" style="display: block; text-align: center;">
@@ -48,3 +49,4 @@ Junior Full Stack Developer
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-lee2&layout=compact&theme=dracula&hide_border=true" />
   </a>
 </p>
+</div>
