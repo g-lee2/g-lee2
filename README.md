@@ -17,9 +17,9 @@ Junior Full Stack Developer
 * 🚀  I'm currently working on [TomoU](https://github.com/g-lee2/TomoU.git)
 * 🧠  I'm learning React Native and Python
 
-### Skills
-
 <div align="center">
+  
+### Skills
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -27,9 +27,10 @@ Junior Full Stack Developer
 
 </div>
 
-### Socials & Badges
-
 <p align="center">
+  
+  ### Socials & Badges
+  
   <a href="https://www.github.com/g-lee2" target="_blank" rel="noreferrer" style="display: block; text-align: center;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
