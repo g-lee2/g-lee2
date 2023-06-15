@@ -6,7 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=9CB8D0&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Grace!;Full+Stack+Developer)](https://git.io/typing-svg)
 
-</div>
+
+
+<div align="center">
 
 Junior Full Stack Developer
 ---------------------------
@@ -16,6 +18,8 @@ Junior Full Stack Developer
 * ✉️  You can contact me at [gracelee9901@gmail.com](mailto:gracelee9901@gmail.com)
 * 🚀  I'm currently working on [TomoU](https://github.com/g-lee2/TomoU.git)
 * 🧠  I'm learning React Native and Python
+  
+</div>
 
 <div align="center">
   
@@ -26,11 +30,12 @@ Junior Full Stack Developer
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 
 </div>
-
+  
+<div align="center">
+    ### Socials & Badges
+</div>
+            
 <p align="center">
-  
-  ### Socials & Badges
-  
   <a href="https://www.github.com/g-lee2" target="_blank" rel="noreferrer" style="display: block; text-align: center;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
