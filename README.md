@@ -4,7 +4,7 @@
 -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=9CB8D0&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Grace!;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=9CB8D0&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Grace!;I'm+Open+To+Learning+New+Technologies+And+Relocating!)](https://git.io/typing-svg)
 
 
 
@@ -14,10 +14,10 @@ Junior Full Stack Developer
 ---------------------------
 
 🌍  I'm based in Seattle, WA
-🌱 Software Development Intern @ Opine 
+🌱 Software Development Intern @ Opine & SignedPic
 ✉️  You can contact me at [gracelee9901@gmail.com](mailto:gracelee9901@gmail.com)
 🚀  I'm currently working on [TomoU](https://github.com/g-lee2/TomoU.git)
-🧠  I'm learning React Native and Python
+🧠  I'm learning Python, AWS, Electron JS
   
 </div>
 
