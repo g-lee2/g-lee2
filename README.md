@@ -15,7 +15,7 @@ Junior Full Stack Developer
 
 🌍  I'm based in Seattle, WA\
 🌱 Currently a Full-Time Software Engineer (Contract)\
-🌱 Recently finished a Software Engineer Internship and Software Engineer position @ Opine & SignedPic\
+🌱 Recently finished a Software Engineer Internship @ Opine & SignedPic\
 ✉️  You can contact me at [gracelee9901@gmail.com](mailto:gracelee9901@gmail.com)\
 🚀  I'm currently working on [TomoU](https://github.com/g-lee2/TomoU.git)\
 🧠  I'm learning on Python, AWS, Electron JS, React\
