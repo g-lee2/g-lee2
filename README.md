@@ -14,7 +14,6 @@ Junior Full Stack Developer
 ---------------------------
 
 🌍  I'm based in Seattle, WA\
-🌱 Currently a Software Engineer working on a contract position\
 🌱 Recently finished a Software Engineer Internship @ Opine & SignedPic\
 ✉️  You can contact me at [gracelee9901@gmail.com](mailto:gracelee9901@gmail.com)
   
