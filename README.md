@@ -13,7 +13,8 @@
 Junior Full Stack Developer
 ---------------------------
 
-🌍  I'm based in Seattle, WA\
+🌍  I'm based in Issaquah, WA\
+🌱 Currently doing an apprenticeship with The Collab Lab\
 🌱 Recently finished a Software Engineer Internship @ Opine & SignedPic\
 ✉️  You can contact me at [gracelee9901@gmail.com](mailto:gracelee9901@gmail.com)
   
