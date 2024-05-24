@@ -15,7 +15,7 @@ Junior Full Stack Developer
 
 🌍  I'm based in USA\
 🌱 Currently doing an apprenticeship with The Collab Lab\
-🌱 Recently finished a Software Engineer Internship @ Opine & SignedPic\
+🌱 Recently finished a Software Engineer Internship @ Opine & SignedPic
   
 </div>
 
