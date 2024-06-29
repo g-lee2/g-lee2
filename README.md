@@ -32,7 +32,6 @@ Junior Full Stack Developer
 ![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%23004258.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Amazon S3](https://img.shields.io/badge/amazon%20s3-%2300A3E0.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
