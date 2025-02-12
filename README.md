@@ -14,8 +14,9 @@ Junior Full Stack Developer
 ---------------------------
 
 🌍  I'm based in USA\
-🌱 Currently doing an apprenticeship with The Collab Lab\
-🌱 Recently finished a Software Engineer Internship @ Opine & SignedPic
+🌱 Recently finished a Web Developer Contract position, focusing on front end development\
+🌱 Was a part of TCL 70 @ The Collab Lab in 2024\
+🌱 In 2023, finished a coding bootcamp and Software Engineer Internship @ Opine & SignedPic
   
 </div>
 
